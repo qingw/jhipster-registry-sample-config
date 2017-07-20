@@ -29,8 +29,8 @@ spring:
     mail:
         host: localhost
         port: 25
-        username:
-        password:
+        username: simon
+        password: gaius
     thymeleaf:
         cache: true
     zipkin: # Use the "zipkin" Maven profile to have the Spring Cloud Zipkin dependencies
